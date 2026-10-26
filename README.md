@@ -1,4 +1,4 @@
-# ✈️ Airport Reservation System (Fullstack)
+# ✈️ Airport Reservation System
 
 A modern flight reservation system built in a client-server architecture. The project focuses on backend logic, managing a relational database, and a responsive user interface.
 
